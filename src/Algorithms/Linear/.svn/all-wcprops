@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/6/trunk/src/Algorithms/Linear
+END
+Queue.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/src/Algorithms/Linear/Queue.c
+END
+Stack.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/trunk/src/Algorithms/Linear/Stack.c
+END
+Queue.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/6/trunk/src/Algorithms/Linear/Queue.h
+END
+Stack.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/6/trunk/src/Algorithms/Linear/Stack.h
+END

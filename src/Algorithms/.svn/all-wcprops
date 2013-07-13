@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/6/trunk/src/Algorithms
+END
+Algorithms.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6/trunk/src/Algorithms/Algorithms.vcxproj
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/6/trunk/src/Algorithms/main.c
+END
+Algorithms.1
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/trunk/src/Algorithms/Algorithms.1
+END
+Algorithms.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/src/Algorithms/Algorithms.vcxproj.filters
+END
